@@ -1,5 +1,5 @@
 body {
     margin: 60;
     padding: 20;
-	p.dashed {border-style: dashed;}
+	border-style: dashed;
 }

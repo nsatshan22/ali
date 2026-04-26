@@ -2,11 +2,12 @@ body {
     margin: 60;
     padding: 20;
 	border-style: dashed;
+	background-color: beige;
 }
 
  head {
-	 border-style: dotted;
-	 background-color: beige;
+	border-style: dotted;
+	background-color: beige;
 }
 
 idaho {

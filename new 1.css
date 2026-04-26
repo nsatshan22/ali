@@ -4,3 +4,7 @@ body {
 	border-style: dashed;
 	background-color: tomato;
 }
+ head {
+	 border-style: dotted;
+	 background-color: green;
+ }

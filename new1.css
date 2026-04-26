@@ -3,12 +3,12 @@ body {
     padding: 20;
 	border-style: dashed;
 }
- head {
+head {
 	border-style: dotted;
 	background-color: beige;
 }
 
-idaho {
+.idaho {
 	background-color: aqua;
 	border-style: double;
 }
